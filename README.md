@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassed</h1>
 
-- 🔭 I’m currently working on [SafeMoney](https://github.com/soymatta/Safemoney)
-
-- 🌱 I’m currently learning **Flask from Python**
-
-- 👯 I’m looking to collaborate on [https://github.com/winsignares/FPD](https://github.com/winsignares/FPD)
-
 - 📫 How to reach me **yassed883@gmail.com**
 
 <h2 align="center">Connect with me:</h2>
