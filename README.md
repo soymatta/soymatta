@@ -23,4 +23,5 @@ Systems Engineering student
 
 ### Badges
 
-<a href="https://github.com/soymatta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soymatta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/soymatta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soymatta&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/soymatta/soymatta/blob/main/devcard.svg" width="300" alt="Yassed Matta's Dev Card"/></a>
